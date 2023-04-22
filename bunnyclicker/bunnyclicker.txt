@@ -15,6 +15,8 @@ Settings
 
 Layout
 	use default
+	*textBox
+		header: Hello this is a header, and it contains a <span>span</span> and a <div>div</div>.
 		
 Buttons
 	*bunnyButton
